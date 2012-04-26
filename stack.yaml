@@ -1,0 +1,13 @@
+Catkin-ProjectName: yaml-cpp
+Version: 0.2.7
+
+Depends: cmake
+
+Description: yaml-cpp is a YAML parser and emitter in C++ matching the YAML 1.2 spec. 
+
+Author: Yaml-cpp guys <vrabaud@willowgarage.com>
+Maintainer: Vincent Rabaud <vrabaud@willowgarage.com>
+Homepage: http://code.google.com/p/yaml-cpp/
+
+Catkin-CopyrightType:  willowgarage
+Catkin-DebRulesType: cmake
