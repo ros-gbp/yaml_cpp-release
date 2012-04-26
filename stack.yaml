@@ -10,4 +10,4 @@ Maintainer: Vincent Rabaud <vrabaud@willowgarage.com>
 Homepage: http://code.google.com/p/yaml-cpp/
 
 Catkin-CopyrightType:  willowgarage
-Catkin-DebRulesType: cmake
+Catkin-DebRulesType: +catkin/rules.em
