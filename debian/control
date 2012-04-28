@@ -1,4 +1,4 @@
-Source: ros-fuerte-yaml-cpp
+Source: yaml-cpp
 Section: misc
 Priority: extra
 Maintainer: Vincent Rabaud <vrabaud@willowgarage.com>
@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7.0.50~), cmake
 Homepage: http://code.google.com/p/yaml-cpp/
 Standards-Version: 3.9.2
 
-Package: ros-fuerte-yaml-cpp
+Package: yaml-cpp
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, cmake
 Description: yaml-cpp is a YAML parser and emitter in C++ matching the YAML 1.2 spec.
